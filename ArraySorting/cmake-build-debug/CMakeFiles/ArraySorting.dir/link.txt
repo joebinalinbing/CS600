@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ArraySorting.dir/main.cpp.o  -o ArraySorting.exe -Wl,--out-implib,libArraySorting.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
