@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/BasicDataTypes_Operations.dir/main.cpp.o  -o BasicDataTypes_Operations.exe -Wl,--out-implib,libBasicDataTypes_Operations.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

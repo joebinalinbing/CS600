@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="LoopsWithCounterCondition" targetName="LoopsWithCounterCondition" />
+      <config projectName="PlateauProgram" targetName="PlateauProgram" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,11 +11,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d556e0d5-6541-4e09-9315-7bd038e7e011" name="Default Changelist" comment="">
+    <list default="true" id="3aa149f0-c908-40cc-8f33-a82add0818bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BasicDataTypes&amp;Operations/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDataTypes&amp;Operations/.idea/dictionaries/jbing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicDataTypes&amp;Operations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factorial/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factorial/.idea/dictionaries/jbing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeanValue/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeanValue/.idea/dictionaries/jbing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeanValue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jbing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ifThenElse/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ifThenElse/.idea/dictionaries/jbing.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ifThenElse/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArraySorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraySorting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopsWithCounterCondition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopsWithCounterCondition/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +39,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -35,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -59,16 +72,14 @@
     <option name="width" value="3510" />
     <option name="height" value="1965" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -77,7 +88,6 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
   </component>
   <component name="RunDashboard">
@@ -93,7 +103,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="LoopsWithCounterCondition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LoopsWithCounterCondition" TARGET_NAME="LoopsWithCounterCondition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LoopsWithCounterCondition" RUN_TARGET_NAME="LoopsWithCounterCondition">
+    <configuration name="PlateauProgram" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PlateauProgram" TARGET_NAME="PlateauProgram" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PlateauProgram" RUN_TARGET_NAME="PlateauProgram">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -104,45 +114,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d556e0d5-6541-4e09-9315-7bd038e7e011" name="Default Changelist" comment="" />
-      <created>1550989761420</created>
+      <changelist id="3aa149f0-c908-40cc-8f33-a82add0818bd" name="Default Changelist" comment="" />
+      <created>1551057550510</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550989761420</updated>
-      <workItem from="1550989762793" duration="1661000" />
-      <workItem from="1550991446932" duration="1997000" />
-      <workItem from="1551048659854" duration="137000" />
+      <updated>1551057550510</updated>
+      <workItem from="1551057552224" duration="2040000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3795000" />
+    <option name="totallyTimeSpent" value="2040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32956153" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="CMake" order="13" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,8 +161,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>

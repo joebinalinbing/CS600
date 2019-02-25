@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/PlateauProgram.dir/main.cpp.o  -o PlateauProgram.exe -Wl,--out-implib,libPlateauProgram.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
