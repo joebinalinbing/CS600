@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="BinomialCoefficients" targetName="BinomialCoefficients" />
+      <config projectName="FIB" targetName="FIB" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,16 +11,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd1ae86e-9b9e-46ec-b2ba-f5e8e4634691" name="Default Changelist" comment="">
+    <list default="true" id="9ae09420-57c4-44ae-8aa6-a54d95956708" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/dictionaries/jbing.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArrayProcessing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecimalBinary/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecimalBinary/.idea/dictionaries/jbing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecimalBinary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FIB/.idea/dictionaries/jbing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FIB/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jbing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IntegerPlotProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntegerPlotProgram/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IntegerPlotProgram/cmake-build-debug/CMakeFiles/IntegerPlotProgram.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../IntegerPlotProgram/cmake-build-debug/CMakeFiles/IntegerPlotProgram.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IntegerPlotProgram/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../IntegerPlotProgram/main.cpp" afterDir="false" />
@@ -35,11 +31,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -57,10 +58,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-255" />
-    <option name="y" value="90" />
-    <option name="width" value="3510" />
-    <option name="height" value="1965" />
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3875" />
+    <option name="height" value="2095" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -73,8 +74,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="BinomialCoefficients" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BinomialCoefficients" type="462c0819:PsiDirectoryNode" />
+              <item name="FIB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FIB" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,7 +89,7 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,7 +104,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="BinomialCoefficients" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BinomialCoefficients" TARGET_NAME="BinomialCoefficients" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BinomialCoefficients" RUN_TARGET_NAME="BinomialCoefficients">
+    <configuration name="FIB" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="FIB" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FIB" RUN_TARGET_NAME="FIB">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -114,24 +115,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cd1ae86e-9b9e-46ec-b2ba-f5e8e4634691" name="Default Changelist" comment="" />
-      <created>1550967845625</created>
+      <changelist id="9ae09420-57c4-44ae-8aa6-a54d95956708" name="Default Changelist" comment="" />
+      <created>1551168470287</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550967845625</updated>
-      <workItem from="1550967846822" duration="6050000" />
-      <workItem from="1551170266223" duration="759000" />
-      <workItem from="1551216342885" duration="69000" />
+      <updated>1551168470287</updated>
+      <workItem from="1551168472269" duration="748000" />
+      <workItem from="1551170256452" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6878000" />
+    <option name="totallyTimeSpent" value="754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25285044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,8 +162,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

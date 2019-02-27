@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/jbing/OneDrive/Documents/GitHub/CS600/IntegerPlotProgram/main.cpp
-stdio.h
+/cygdrive/c/Users/jbing/OneDrive/Documents/GitHub/CS600/FIB/main.cpp
+iostream
 -
 

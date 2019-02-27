@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ArrayProcessing.dir/main.cpp.o  -o ArrayProcessing.exe -Wl,--out-implib,libArrayProcessing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
